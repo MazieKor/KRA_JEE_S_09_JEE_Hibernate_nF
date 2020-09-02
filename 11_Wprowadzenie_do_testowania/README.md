@@ -3,7 +3,7 @@
 
 ## Zadanie 1 - rozwiązywane z wykładowcą
 
-1. Zaimportuj projekt typu `Maven`.
+1. Utwórz projekt typu `Maven`.
 2. Utwórz klasę testującą o nazwie `SimpleSampleTest`.
 4. Uruchom test a następnie popraw go dowolnie tak, by test przeszedł.
 
